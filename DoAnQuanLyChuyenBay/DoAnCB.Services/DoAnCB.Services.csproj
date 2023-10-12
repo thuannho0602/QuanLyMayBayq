@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoAnCB.DataAccess\DoAnCB.DataAccess.csproj" />
+    <ProjectReference Include="..\DoAnCB.Model\DoAnCB.Model.csproj" />
+    <ProjectReference Include="..\DoAnCB.Repository\DoAnCB.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
