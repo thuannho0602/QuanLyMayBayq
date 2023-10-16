@@ -38,6 +38,7 @@ namespace DoAnCB.API.Controllers
         public async Task<IActionResult> CreateUser(UserCreatRequest newUserDto)
         {
             var newUser = new User()
+
             {
                 UserName = newUserDto.UserName,
                 FirstName = newUserDto.FirstName,

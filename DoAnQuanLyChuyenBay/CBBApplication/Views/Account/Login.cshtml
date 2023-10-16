@@ -22,7 +22,11 @@
                         </div>
                        
                         <button class="au-btn au-btn--block au-btn--green m-b-20" type="submit" id="login">Đăng Nhập</button>
-                        <button class="au-btn au-btn--block au-btn--green m-b-20" type="submit" id="createUser">Đăng Ký</button>
+                      
+                    }
+                    @using (Html.BeginForm("CreateUser", "Account", FormMethod.Get))
+                    {
+                            <button class="au-btn au-btn--block au-btn--green m-b-20" type="submit" id="createUser">Đăng Ký</button>
                     }
                     @*<form action="" method="post">
                     </form>*@

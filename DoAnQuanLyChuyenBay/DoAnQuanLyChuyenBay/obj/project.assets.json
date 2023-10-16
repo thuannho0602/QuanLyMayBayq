@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
+      "projectUniqueName": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
       "projectName": "DoAnCB.API",
-      "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
+      "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\obj\\",
+      "outputPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5885,23 +5885,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.DataAccess\\DoAnCB.DataAccess.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.DataAccess\\DoAnCB.DataAccess.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.DataAccess\\DoAnCB.DataAccess.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.DataAccess\\DoAnCB.DataAccess.csproj"
             },
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Entity\\DoAnCB.Entity.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Entity\\DoAnCB.Entity.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Entity\\DoAnCB.Entity.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Entity\\DoAnCB.Entity.csproj"
             },
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Lib\\DoAnCB.Lib.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Lib\\DoAnCB.Lib.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Lib\\DoAnCB.Lib.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Lib\\DoAnCB.Lib.csproj"
             },
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj"
             },
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Repository\\DoAnCB.Repository.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Repository\\DoAnCB.Repository.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Repository\\DoAnCB.Repository.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Repository\\DoAnCB.Repository.csproj"
             },
-            "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj": {
-              "projectPath": "D:\\C#\\QuanLyCB\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj"
+            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj": {
+              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj"
             }
           }
         }
