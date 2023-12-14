@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wS4QvPAAa6pDI8YcfdqN91yyHdeIeqrvdzPwQYCkio5VmcYqP5lENmbai59/UGHqnc53mj7B5aQuOvPv1zZgtw==",
+  "dgSpecHash": "MNj8Ha3T6guCB1LJ18dFVyqYOhcjxKw3SHpplNmLnt0KfGQBxN36q6ynw4lr6VtaFJf2tikVUrbNdaG0SH7S6Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj",
+  "projectFilePath": "D:\\Back-end\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Services\\DoAnCB.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",

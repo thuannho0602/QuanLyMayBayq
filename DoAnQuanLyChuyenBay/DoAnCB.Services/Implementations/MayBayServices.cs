@@ -21,7 +21,7 @@ namespace DoAnCB.Services.Implementations
         }
         public async Task<MayBayCreateResponse> CreateMayBay(MayBayCreateRequest mayBayCreateRequest)
         {
-            if (mayBayCreateRequest.Id == 0)
+            if (mayBayCreateRequest.Id == 0 )
             {
                 var maybay = new MayBay
                 {

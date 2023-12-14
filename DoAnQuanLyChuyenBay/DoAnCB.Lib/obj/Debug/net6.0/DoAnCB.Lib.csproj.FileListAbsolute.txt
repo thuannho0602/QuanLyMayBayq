@@ -34,3 +34,15 @@ D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.d
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\refint\DoAnCB.Lib.dll
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.pdb
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\ref\DoAnCB.Lib.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\bin\Debug\net6.0\DoAnCB.Lib.deps.json
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\bin\Debug\net6.0\DoAnCB.Lib.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\bin\Debug\net6.0\DoAnCB.Lib.pdb
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.csproj.AssemblyReference.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.AssemblyInfoInputs.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.AssemblyInfo.cs
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.csproj.CoreCompileInputs.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\refint\DoAnCB.Lib.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\DoAnCB.Lib.pdb
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Lib\obj\Debug\net6.0\ref\DoAnCB.Lib.dll

@@ -34,3 +34,15 @@ D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.En
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\refint\DoAnCB.Entity.dll
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.pdb
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\ref\DoAnCB.Entity.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\bin\Debug\net6.0\DoAnCB.Entity.deps.json
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\bin\Debug\net6.0\DoAnCB.Entity.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\bin\Debug\net6.0\DoAnCB.Entity.pdb
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.csproj.AssemblyReference.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.AssemblyInfoInputs.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.AssemblyInfo.cs
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.csproj.CoreCompileInputs.cache
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\refint\DoAnCB.Entity.dll
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\DoAnCB.Entity.pdb
+D:\Back-end\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Entity\obj\Debug\net6.0\ref\DoAnCB.Entity.dll

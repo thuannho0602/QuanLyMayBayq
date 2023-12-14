@@ -59,7 +59,7 @@ namespace CBBApplication.Controllers
         [AllowAnonymous]
         [Route("LoginAction")]
         public async Task<ActionResult> LoginAction(AccountLoginModel model)
-        {
+         {
             var loginResult = await PostRequest("account/login", model);
             string token = loginResult.data;
             string message = loginResult.message;

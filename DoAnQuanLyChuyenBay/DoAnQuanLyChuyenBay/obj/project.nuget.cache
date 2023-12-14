@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D52/19IxBcr23D+MZbKEkpQ7vDEKNJftjo1tIKNxUdjlYKz/qzMJkrkQ59DdL97KXUHN2NfO5u3JteCHXhToRw==",
+  "dgSpecHash": "2HcMNva1ow6EbYwu97atG3ACbyZeWfchQ+LHElm4bdo8IogIZawBW68QE67j8SXFImkbOPNCdwR4aSnYP/s2rg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
+  "projectFilePath": "D:\\Back-end\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnQuanLyChuyenBay\\DoAnCB.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

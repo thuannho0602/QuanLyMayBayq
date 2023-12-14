@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hbj+d2V4sQXixTclEaF/N9AKWdbJ4GCp5Sudtjm2n07EpoVytcj1uOjm7F1sfhV8axhJO7lPgWW5A+zKpyjSDQ==",
+  "dgSpecHash": "+wUYOlSe/w4/OuJTpWkFWhBGduIoUhSkAJfHJwbooRgnDdYAJZa/DAYZDJVt56V5+9ZEfZHdRh3ODJFmTMjO+w==",
   "success": true,
-  "projectFilePath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
+  "projectFilePath": "D:\\Back-end\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
