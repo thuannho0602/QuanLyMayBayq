@@ -10441,11 +10441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
+      "projectUniqueName": "D:\\QLCBs\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
       "projectName": "CBBApplication",
-      "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
+      "projectPath": "D:\\QLCBs\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\CBBApplication.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\obj\\",
+      "outputPath": "D:\\QLCBs\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\CBBApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10467,8 +10467,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj": {
-              "projectPath": "D:\\C#\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj"
+            "D:\\QLCBs\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj": {
+              "projectPath": "D:\\QLCBs\\QuanLyMayBayq\\DoAnQuanLyChuyenBay\\DoAnCB.Model\\DoAnCB.Model.csproj"
             }
           }
         }

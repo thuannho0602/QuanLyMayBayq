@@ -34,3 +34,15 @@ D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Mod
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\refint\DoAnCB.Model.dll
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.pdb
 D:\C#\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\ref\DoAnCB.Model.dll
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\bin\Debug\net6.0\DoAnCB.Model.deps.json
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\bin\Debug\net6.0\DoAnCB.Model.dll
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\bin\Debug\net6.0\DoAnCB.Model.pdb
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.csproj.AssemblyReference.cache
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.AssemblyInfoInputs.cache
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.AssemblyInfo.cs
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.csproj.CoreCompileInputs.cache
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.dll
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\refint\DoAnCB.Model.dll
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\DoAnCB.Model.pdb
+D:\QLCBs\QuanLyMayBayq\DoAnQuanLyChuyenBay\DoAnCB.Model\obj\Debug\net6.0\ref\DoAnCB.Model.dll
